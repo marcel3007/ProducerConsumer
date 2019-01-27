@@ -3,3 +3,4 @@ modules.xml
 workspace.xml
 out\
 ProducerConsumer.iml
+vcs.xml
